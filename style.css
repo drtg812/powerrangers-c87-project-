@@ -1,0 +1,11 @@
+body 
+{
+    background-color: aqua;
+}
+
+#myCanvas
+{
+    border-width: 10px;
+    border-color: white;
+    border-style: ridge;
+}
